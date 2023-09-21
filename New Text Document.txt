@@ -1,0 +1,15 @@
+DSA
+https://rjcdu-my.sharepoint.com/:f:/g/personal/190201622_ramjas_edu_du_ac_in/EsuKHow69KBNlVJnQanMzy8BUeiPajUdAMfctcLGPUjBzg?e=VIGmbE
+10.90.2.154
+255.255.0.0
+10.90.0.1
+10.90.0.1
+10.90.0.2
+
+192.168.1.101
+255.255.255.0
+192.168.1.1
+192.168.1.1
+218.248.240.23
+https://login.microsoftonline.com/common/oauth2/v2.0/authorize?scope=service::account.microsoft.com::MBI_SSL+openid+profile+offline_access&response_type=code&client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&redirect_uri=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin-oauth&client-request-id=54252625-57dc-4f20-bb22-029fdf0b1598&x-client-SKU=MSAL.Desktop&x-client-Ver=4.45.0.0&x-client-CPU=x64&x-client-OS=Windows+Server+2019+Datacenter&prompt=login&client_info=1&state=H4sIAAAAAAAEAA3KyaJrMAAA0H-5WwtqrMVbiBiKtNRQ7i6i2ppqDr7-vrM-P3brD4mzh5JMp2abvsBgw6u76h-Cjm56fr4VR9_05Q0BzT4wUoEwf1SBUn3odBcCTW9nbs2aXjfD2En5UbA051qVGkmMhoUDTdI2R9ZQo_x_rsfGO-uxq2W181ozEX9xrriByq2-ZT7eLJbgWpql2D54xts6Rba2pT3AsHVQLeI0rjg1255beLmXkOVba5kFw1KQsSqLZOo9QJfiVfceHsvyE1QHKL0iUWVMXL3v8rApCkX6AMvjzlmltosjJ21ImRqJ1es5ttAucemRfVhxJPEUKTcIrn0exNCJsmYjl3CsGn00Gv_kAt6W5lHm6RwFB0svZlEY5A4tBWho61EQKDR8pmuS9fbV1U-sXYrZso8NPt3jYx9TafEGdk4SRq2HFETZXui8anMT31PfUybTWNF-EJJh8CX7rSN7mH7RxpQHY4XYbR55lIrWfaWjODLRIjLB3ZYbs8FC4CNfeJcFRmnKn6_kJAf873sQ-vp3BrYjKODWT_PO4VZi8iSo-wd_CHaMXsiDnYtb0kcyqcuIfHEHtXnLyW3Z3exYG1WNIpPoRNH62i9eDn0Gbz_kiqN_G5MoQkmINpJ1qXUFxJLap1Q-PPtODvmcQ9nVGaL9-_kDOLbTGW4CAAA&msaoauth2=true&lc=1033&sso_reload=true
+https://mega.nz/folder/QiIkzT7Z#gKBvN52bUcY0evMzXMHJCg/folder/x6hWVDAA
